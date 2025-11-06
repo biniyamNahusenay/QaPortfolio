@@ -4,9 +4,9 @@ import Link from 'next/link';
 export default function HomePage() {
   return (
     <div className="text-center py-16">
-      <h1 className="text-5xl font-extrabold text-gray-900 mb-4 animate-fade-in">
-        Biniyam Nahusenay
-      </h1>
+        <h1 className="text-5xl font-extrabold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent mb-4 animate-fade-in">
+          Biniyam Nahusenay
+        </h1>
       <p className="text-2xl text-blue-600 mb-8 animate-fade-in delay-200">
         QA Engineer | SDET | Automation Tester | CI/CD Enthusiast
       </p>
