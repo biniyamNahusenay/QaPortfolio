@@ -1,7 +1,7 @@
 // app/skills/page.tsx
 export default function SkillsPage() {
   const skills = {
-    'QA & Testing': ['Manual Testing', 'Automation Testing', 'Postman', 'REST API Testing'],
+    'QA & Testing': ['Manual Testing', 'Automation Testing', 'Postman', 'Rest Assured'],
     'Automation Tools': ['Selenium WebDriver', 'JMeter'],
     'CI/CD & DevOps': ['Jenkins', 'CI/CD', 'GitHub Actions'], // Added GitHub Actions based on initial plan
     'Programming Languages': ['Java', 'JavaScript'],
